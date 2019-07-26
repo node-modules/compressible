@@ -4,3 +4,4 @@ coverage
 .vscode
 test/fixtures/types/*.js
 yarn.lock
+!test/fixtures/symlink/node_modules
